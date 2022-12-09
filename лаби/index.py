@@ -9,9 +9,7 @@ def get_file():
         file.close()
         
         return true_list
-def show_():
-        file=open("Lab6.txt",'r')
-        print(file.read())
+
 
 def XXX_AAA(num):
      l_ist=get_file()
