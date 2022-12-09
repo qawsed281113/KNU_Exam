@@ -1,10 +1,10 @@
 def get_file():
         file = open("exam.txt")
         text = file.read()
-        phone_list = text.split("\n")
+        _list = text.split("\n")
         true_list = []
     
-        for i in phone_list:
+        for i in _list:
             true_list.append(i)   
         file.close()
         
