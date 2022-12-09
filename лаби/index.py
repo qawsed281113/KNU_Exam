@@ -25,5 +25,5 @@ def main():
             XXX_AAA(int(num))
             break
         else:
-            print("Enter only numbers:")
+            print("Enter only numbers")
 main() 
